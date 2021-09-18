@@ -1,6 +1,6 @@
 # STEM-Village
 A personal research project on LGBTQ people in STEM following the Twitter account (TheSTEMvillage). 
-The objective was to determine how many Transgender people work in STEM fields and what particular fields are they in, as to address the primary question of how many Transgender people work in Software Development/ Programming. A dataset was created which will not be publically available for safety concerns, but can be accessed via email requested.
+The objective was to determine how many Transgender people work in STEM fields and what particular fields are they in, as to address the primary question of how many Transgender people work in Software Development/ Programming. A dataset was created which will not be publically available for safety concerns, but can be email requested.
 
 ## Inclusion Criteria
 The inclusion criteria for accounts to be added to the dataset had to: 
