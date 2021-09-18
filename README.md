@@ -17,3 +17,14 @@ The inclusion criteria for accounts to be added to the dataset had to:
 - 92 accounts were deleted due to these accounts not having field of study or occupation stated. Attempts were made at determining type of work or study. The dataset has 488 completed rows.
 - For some field of study classifications such as `Biology` or `Biologist` include all types of Biologists, Planetary Biology would be in this category. Classifications were made for brevity and generalization of science field. 
 
+
+# Data Visualization
+
+The field of study / occupations by count
+![STEM-occupations](https://user-images.githubusercontent.com/55933131/133907948-3dc4df8d-2e44-4738-b8be-e9b2a1081b20.png)
+
+The field of study / occupations of where Transgender people are. Bulk of those counted are alone in this sample of Twitter accounts.
+![Trans-in-STEM](https://user-images.githubusercontent.com/55933131/133908003-6e0da004-d028-4e2e-9ff7-e026381adfe9.png)
+
+
+
